@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Jasurbek Akhmedov  
-🎯 Passionate **Backend Developer** | 💡 Interested in **Data Science**  
+🎯 **Backend Developer** | 💡 Interested in **Data Science**  
 📍 Based in Uzbekistan | 🌐 Open to collaboration
 ### 💻 Tech Stack
 - 🐍 Python | 🧩 Django | ⚙️ FastAPI  
