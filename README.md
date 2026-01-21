@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Jasurbek Akhmedov  
 🎯 **Backend Developer** | 💡 Interested in **Data Science**  
 📍 Based in Uzbekistan | 🌐 Open to collaboration
-💼 Works in Uzinfocom
+💼 Works at Uzinfocom
 ### 💻 Tech Stack
 - 🐍 Python | 🧩 Django | ⚙️ FastAPI  
 - 🗄 PostgreSQL | 🧠 Redis  
